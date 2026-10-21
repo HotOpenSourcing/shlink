@@ -13,3 +13,5 @@ data/infra/matomo
 docs/mercure.html
 .phpunit.result.cache
 docs/swagger/openapi-inlined.json
+config.bat
+node_modules
